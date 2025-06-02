@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WriteWise</title>
+        <item>
+            <title>0.3</title>
+            <pubDate>Mon, 02 Jun 2025 06:49:17 +0530</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="WriteWise%200.3.dmg" length="22611198" type="application/octet-stream" sparkle:edSignature="EMiHUHMKTnD5tMWo9Ooc0j8XZ4FHH9pq0Jkgu8eje2bIWv6asOq7vkidnsVrK/W0j4p3sXAR5tYh4WxXpzJ/Cw=="/>
+        </item>
+    </channel>
+</rss>
