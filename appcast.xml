@@ -8,7 +8,7 @@
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tedgarage/WriteWiseBetaApp/releases/download/V22/WriteWise.dmg.zip" length="22608951" type="application/octet-stream" sparkle:edSignature="H1TyVtA2dKK0UYrUiuFJcHB9MGVa80T0HPgogcCUMEU6w3gne5wFkXYZnZY3k/RgiYUIp5b4oNmajkXjy0GsBw=="/>
+            <enclosure url="https://github.com/tedgarage/WriteWiseBetaApp/releases/download/V24/WriteWise.dmg.zip" length="22608951" type="application/octet-stream" sparkle:edSignature="H1TyVtA2dKK0UYrUiuFJcHB9MGVa80T0HPgogcCUMEU6w3gne5wFkXYZnZY3k/RgiYUIp5b4oNmajkXjy0GsBw=="/>
         </item>
     </channel>
 </rss>
