@@ -8,7 +8,7 @@
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="WriteWise%200.3.dmg" length="22611198" type="application/octet-stream" sparkle:edSignature="EMiHUHMKTnD5tMWo9Ooc0j8XZ4FHH9pq0Jkgu8eje2bIWv6asOq7vkidnsVrK/W0j4p3sXAR5tYh4WxXpzJ/Cw=="/>
+            <enclosure url="https://workdrive.zohoexternal.com/external/40745cac88902ca7133e8ef5a04b4ca500c272d4b2da3b64f157dcbe00544ecb/download" length="22611198" type="application/octet-stream" sparkle:edSignature="EMiHUHMKTnD5tMWo9Ooc0j8XZ4FHH9pq0Jkgu8eje2bIWv6asOq7vkidnsVrK/W0j4p3sXAR5tYh4WxXpzJ/Cw=="/>
         </item>
     </channel>
 </rss>
