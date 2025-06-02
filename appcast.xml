@@ -3,12 +3,12 @@
     <channel>
         <title>WriteWise</title>
         <item>
-            <title>0.3</title>
-            <pubDate>Mon, 02 Jun 2025 14:16:22 +0530</pubDate>
+            <title>0.4</title>
+            <pubDate>Mon, 02 Jun 2025 18:20:05 +0530</pubDate>
             <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tedgarage/WriteWiseBetaApp/releases/download/V24/WriteWise.dmg.zip" length="22608951" type="application/octet-stream" sparkle:edSignature="H1TyVtA2dKK0UYrUiuFJcHB9MGVa80T0HPgogcCUMEU6w3gne5wFkXYZnZY3k/RgiYUIp5b4oNmajkXjy0GsBw=="/>
+            <enclosure url="https://github.com/tedgarage/WriteWiseBetaApp/releases/download/V24/WriteWise.dmg.zip" length="22609426" type="application/octet-stream" sparkle:edSignature="JjrwohjGFN9XsTKaSd9m/8TtuJpBonzFmsBIG48H1HL3aXLYq7yOGIQhh+mUVn3CEi26YPkGfmiRLVLQRGNnBQ=="/>
         </item>
     </channel>
 </rss>
