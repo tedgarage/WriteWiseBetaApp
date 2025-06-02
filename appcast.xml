@@ -8,7 +8,7 @@
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://workdrive.zohoexternal.com/external/753102fbf99c78dbbf4602490fd526ea15cd211c4574efc3e62f816abbe6209d/download" length="22610052" type="application/octet-stream" sparkle:edSignature="WiY49UKwsteulxPz41g57RfuxvCVAr5KYdY2ag/pj1KfdilpKOXRTEAyJ+NPzRklU7j+tNBUkhKLFRU492ukDA=="/>
+            <enclosure url="https://github.com/tedgarage/WriteWiseBetaApp/releases/download/V22/WriteWise.dmg.zip" length="22610052" type="application/octet-stream" sparkle:edSignature="WiY49UKwsteulxPz41g57RfuxvCVAr5KYdY2ag/pj1KfdilpKOXRTEAyJ+NPzRklU7j+tNBUkhKLFRU492ukDA=="/>
         </item>
     </channel>
 </rss>
